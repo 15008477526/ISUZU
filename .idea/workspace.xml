@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="516302aa-ddb1-481d-a637-d0e0f2d9761e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_goods_py.coverage" NAME="Unittests in test_goods.py Coverage Results" MODIFIED="1569207660545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sceript" />
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_6login_py.coverage" NAME="Unittests in test_6login.py Coverage Results" MODIFIED="1569218414918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/isuzu$EV_login_out.coverage" NAME="EV_login_out Coverage Results" MODIFIED="1597037559596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$write_location.coverage" NAME="write_location Coverage Results" MODIFIED="1575354348487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_.coverage" NAME="FV_驾驶行为 Coverage Results" MODIFIED="1586423171131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day1$send_journey__1_.coverage" NAME="send_journey (1) Coverage Results" MODIFIED="1574849947691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_pending_py.coverage" NAME="Unittests in test_pending.py Coverage Results" MODIFIED="1569219532153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/isuzu$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1585019689507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_order_history_py.coverage" NAME="Unittests in test_order_history.py Coverage Results" MODIFIED="1569219502161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/isuzu$ev_.coverage" NAME="ev_车况自检 Coverage Results" MODIFIED="1585936222972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_wait_for_receiving_py.coverage" NAME="Unittests in test_wait_for_receiving.py Coverage Results" MODIFIED="1569219661200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_register_py.coverage" NAME="Unittests in test_register.py Coverage Results" MODIFIED="1569219580740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/isuzu$write_location_1.coverage" NAME="write_location_1 Coverage Results" MODIFIED="1594950674885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$EV_.coverage" NAME="EV_停车充电 Coverage Results" MODIFIED="1592880052422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$send_journey__1_.coverage" NAME="send_journey (1) Coverage Results" MODIFIED="1585931552793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$fv_send_jouuney.coverage" NAME="fv_send_jouuney Coverage Results" MODIFIED="1585906131554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$db_Connection.coverage" NAME="db_Connection Coverage Results" MODIFIED="1585028532045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$course.coverage" NAME="course Coverage Results" MODIFIED="1590137260651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05" />
+    <SUITE FILE_PATH="coverage/Ecshop$runcase.coverage" NAME="runcase Coverage Results" MODIFIED="1569225279848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$get_location.coverage" NAME="get_location Coverage Results" MODIFIED="1593586345781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$write_location__1_.coverage" NAME="write_location (1) Coverage Results" MODIFIED="1575534033857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$send_journey.coverage" NAME="send_journey Coverage Results" MODIFIED="1575455234916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_login_out.coverage" NAME="FV_login_out Coverage Results" MODIFIED="1593586303091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$ev_login_out.coverage" NAME="ev_login_out Coverage Results" MODIFIED="1585933541339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1574157970608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/send_method" />
+    <SUITE FILE_PATH="coverage/day1$write_location__1_.coverage" NAME="write_location (1) Coverage Results" MODIFIED="1574849886006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$runcase.coverage" NAME="runcase Coverage Results" MODIFIED="1579512747886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day1$send_journey.coverage" NAME="send_journey Coverage Results" MODIFIED="1574823061207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ecshop$Unittests_for_test_goods_TestGoods_test_goods_info.coverage" NAME="Unittests for test_goods.TestGoods.test_goods_info Coverage Results" MODIFIED="1569207632616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sceript" />
+    <SUITE FILE_PATH="coverage/isuzu$EV_C1.coverage" NAME="EV_C1报警事件 Coverage Results" MODIFIED="1585937467258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_C1.coverage" NAME="FV_C1报警事件 Coverage Results" MODIFIED="1594277197948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_normal.coverage" NAME="FV_normal Coverage Results" MODIFIED="1597037423960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day1$write_location.coverage" NAME="write_location Coverage Results" MODIFIED="1574822620514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day1$test.coverage" NAME="test Coverage Results" MODIFIED="1574156581829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/send_method" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FV_C1报警事件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13203">
+              <caret line="494" column="33" selection-start-line="494" selection-start-column="33" selection-end-line="494" selection-end-column="33" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EV_充电完成.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EV_停车充电.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3510">
+              <caret line="135" column="64" selection-start-line="135" selection-start-column="64" selection-end-line="135" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EV_login_out.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="364" column="35" selection-start-line="364" selection-start-column="35" selection-end-line="364" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FV_C1报警.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7236">
+              <caret line="273" column="123" selection-start-line="273" selection-start-column="121" selection-end-line="273" selection-end-column="123" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_location.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/write_location_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FV_normal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="433" column="33" lean-forward="true" selection-start-line="433" selection-start-column="33" selection-end-line="433" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int(now_time[8:10])-1)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>int(now_time[8:10]))</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/script/test_05_delete_address.py" />
+        <option value="$PROJECT_DIR$/script/test_05_modify_address.py" />
+        <option value="$PROJECT_DIR$/script/test_order_history.py" />
+        <option value="$PROJECT_DIR$/interface/order_3history.py" />
+        <option value="$PROJECT_DIR$/interface/pending.py" />
+        <option value="$PROJECT_DIR$/interface/wait_for_3receiving.py" />
+        <option value="$PROJECT_DIR$/script/test_register.py" />
+        <option value="$PROJECT_DIR$/common/pymysql读取数据和写入数据02.py" />
+        <option value="$PROJECT_DIR$/common/random_faker.py" />
+        <option value="$PROJECT_DIR$/common/operate_excel.py" />
+        <option value="$PROJECT_DIR$/common/config.py" />
+        <option value="$PROJECT_DIR$/common/pymysql_e.py" />
+        <option value="$PROJECT_DIR$/send_method/send_method.py" />
+        <option value="$PROJECT_DIR$/send_method/test.py" />
+        <option value="$PROJECT_DIR$/send_method/test1.py" />
+        <option value="$PROJECT_DIR$/send_method/aa.py" />
+        <option value="$PROJECT_DIR$/send_method/sen_journey.py" />
+        <option value="$PROJECT_DIR$/write_location.py" />
+        <option value="$PROJECT_DIR$/write_location.py" />
+        <option value="$PROJECT_DIR$/runcase.py" />
+        <option value="$PROJECT_DIR$/send_method/fv_send_jouuney.py" />
+        <option value="$PROJECT_DIR$/send_method/打.py" />
+        <option value="$PROJECT_DIR$/data/__init__.py" />
+        <option value="$PROJECT_DIR$/db_Connection.py" />
+        <option value="$PROJECT_DIR$/send_method/login_out.py" />
+        <option value="$PROJECT_DIR$/login_out.py" />
+        <option value="$PROJECT_DIR$/ev_login_out.py" />
+        <option value="$PROJECT_DIR$/send_journey.py" />
+        <option value="$PROJECT_DIR$/send_journey.py" />
+        <option value="$PROJECT_DIR$/ev_停车充电.py" />
+        <option value="$PROJECT_DIR$/ev_充电完成.py" />
+        <option value="$PROJECT_DIR$/ev_车况自检.py" />
+        <option value="$PROJECT_DIR$/ev_C1报警事件.py" />
+        <option value="$PROJECT_DIR$/EV_C1报警事件.py" />
+        <option value="$PROJECT_DIR$/FV_C1报警.py" />
+        <option value="$PROJECT_DIR$/fv_send_jouuney.py" />
+        <option value="$PROJECT_DIR$/FV_车辆拆除报警.py" />
+        <option value="$PROJECT_DIR$/FV_车况自检.py" />
+        <option value="$PROJECT_DIR$/EV_车况自检.py" />
+        <option value="$PROJECT_DIR$/EV_驾驶行为.py" />
+        <option value="$PROJECT_DIR$/FV_驾驶行为.py" />
+        <option value="$PROJECT_DIR$/EV_充电完成.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/course.py" />
+        <option value="$PROJECT_DIR$/EV_停车充电.py" />
+        <option value="$PROJECT_DIR$/FV_login_out.py" />
+        <option value="$PROJECT_DIR$/FV_C1报警事件.py" />
+        <option value="$PROJECT_DIR$/write_location_1.py" />
+        <option value="$PROJECT_DIR$/get_location.py" />
+        <option value="$PROJECT_DIR$/get_location.py" />
+        <option value="$PROJECT_DIR$/EV_login_out.py" />
+        <option value="$PROJECT_DIR$/FV_normal.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="981" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="isuzu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isuzu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\自动化接口\Ecshop\script" />
+      <recent name="F:\python\自动化接口\Ecshop\common" />
+      <recent name="F:\python\自动化接口\Ecshop\interface" />
+      <recent name="F:\python\自动化接口\Ecshop" />
+      <recent name="F:\python\自动化接口\Ecshop\sceript" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\isuzu" />
+      <recent name="E:\python\day1" />
+      <recent name="F:\python\自动化接口\Ecshop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.EV_login_out">
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EV_login_out" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_login_out.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FV_C1报警事件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FV_C1报警事件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FV_normal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FV_normal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_location" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_location.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="write_location_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/write_location_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.EV_充电完成" />
+      <item itemvalue="Python.EV_login_out" />
+      <item itemvalue="Python.FV_normal" />
+      <item itemvalue="Python.get_location" />
+      <item itemvalue="Python.FV_C1报警事件" />
+      <item itemvalue="Python.write_location_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.EV_login_out" />
+        <item itemvalue="Python.FV_normal" />
+        <item itemvalue="Python.write_location_1" />
+        <item itemvalue="Python.FV_C1报警事件" />
+        <item itemvalue="Python.get_location" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516302aa-ddb1-481d-a637-d0e0f2d9761e" name="Default" comment="" />
+      <created>1569207398521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569207398521</updated>
+      <workItem from="1573441227736" duration="2074000" />
+      <workItem from="1574151818239" duration="4878000" />
+      <workItem from="1574821771016" duration="7424000" />
+      <workItem from="1574904814637" duration="4225000" />
+      <workItem from="1574990429006" duration="2663000" />
+      <workItem from="1575251815809" duration="12646000" />
+      <workItem from="1575336783423" duration="4568000" />
+      <workItem from="1575441240410" duration="8425000" />
+      <workItem from="1575508912277" duration="4887000" />
+      <workItem from="1575534019963" duration="5836000" />
+      <workItem from="1575595431089" duration="2891000" />
+      <workItem from="1575625172494" duration="3353000" />
+      <workItem from="1575682493594" duration="10513000" />
+      <workItem from="1575860667819" duration="8601000" />
+      <workItem from="1575941214034" duration="11716000" />
+      <workItem from="1576027728650" duration="14063000" />
+      <workItem from="1576114276726" duration="4074000" />
+      <workItem from="1576204146421" duration="19880000" />
+      <workItem from="1576460125105" duration="8209000" />
+      <workItem from="1576496771305" duration="629000" />
+      <workItem from="1576546497804" duration="13798000" />
+      <workItem from="1576633202502" duration="3051000" />
+      <workItem from="1576805616360" duration="17203000" />
+      <workItem from="1577066004880" duration="2824000" />
+      <workItem from="1577152254236" duration="3171000" />
+      <workItem from="1577242181072" duration="6797000" />
+      <workItem from="1577328584217" duration="1027000" />
+      <workItem from="1577346148639" duration="6742000" />
+      <workItem from="1577417363391" duration="8247000" />
+      <workItem from="1577755044094" duration="8138000" />
+      <workItem from="1577932077208" duration="3377000" />
+      <workItem from="1578295364915" duration="4750000" />
+      <workItem from="1578360762502" duration="652000" />
+      <workItem from="1578620605988" duration="4943000" />
+      <workItem from="1578879139889" duration="6071000" />
+      <workItem from="1578965716238" duration="10307000" />
+      <workItem from="1579057743505" duration="21311000" />
+      <workItem from="1579138563989" duration="10820000" />
+      <workItem from="1579228472646" duration="15024000" />
+      <workItem from="1579398106756" duration="3730000" />
+      <workItem from="1579484185682" duration="11051000" />
+      <workItem from="1579511325772" duration="2908000" />
+      <workItem from="1579569865068" duration="21643000" />
+      <workItem from="1579657011696" duration="4171000" />
+      <workItem from="1581404886622" duration="1223000" />
+      <workItem from="1583399250051" duration="33000" />
+      <workItem from="1584349541837" duration="670000" />
+      <workItem from="1584352303587" duration="2498000" />
+      <workItem from="1584430303179" duration="177000" />
+      <workItem from="1584438082037" duration="2929000" />
+      <workItem from="1584511897195" duration="67000" />
+      <workItem from="1584608165635" duration="7353000" />
+      <workItem from="1584668004152" duration="18014000" />
+      <workItem from="1584926953445" duration="13278000" />
+      <workItem from="1585015002259" duration="13736000" />
+      <workItem from="1585102124841" duration="2896000" />
+      <workItem from="1585114457235" duration="1460000" />
+      <workItem from="1585537153294" duration="18843000" />
+      <workItem from="1585618193011" duration="7835000" />
+      <workItem from="1585805046490" duration="2778000" />
+      <workItem from="1585809208332" duration="7609000" />
+      <workItem from="1585877792075" duration="24338000" />
+      <workItem from="1585928326195" duration="10217000" />
+      <workItem from="1585978371840" duration="8874000" />
+      <workItem from="1586223954263" duration="1934000" />
+      <workItem from="1586244204162" duration="9093000" />
+      <workItem from="1586262083424" duration="10235000" />
+      <workItem from="1586274967447" duration="634000" />
+      <workItem from="1586311128135" duration="5380000" />
+      <workItem from="1586328116164" duration="9692000" />
+      <workItem from="1586395947342" duration="11904000" />
+      <workItem from="1586483609915" duration="9811000" />
+      <workItem from="1586574389389" duration="5836000" />
+      <workItem from="1586590641658" duration="1069000" />
+      <workItem from="1586744919899" duration="10194000" />
+      <workItem from="1586830216210" duration="10846000" />
+      <workItem from="1586860655292" duration="599000" />
+      <workItem from="1586861339674" duration="610000" />
+      <workItem from="1586915556280" duration="5977000" />
+      <workItem from="1587002281782" duration="8066000" />
+      <workItem from="1587022407464" duration="3157000" />
+      <workItem from="1587088920850" duration="3465000" />
+      <workItem from="1587116014860" duration="8031000" />
+      <workItem from="1587353679322" duration="4106000" />
+      <workItem from="1587375357675" duration="701000" />
+      <workItem from="1587721812100" duration="796000" />
+      <workItem from="1587874689514" duration="1229000" />
+      <workItem from="1587889209795" duration="787000" />
+      <workItem from="1587894135173" duration="1431000" />
+      <workItem from="1587897282593" duration="312000" />
+      <workItem from="1587949537083" duration="3980000" />
+      <workItem from="1587958935628" duration="637000" />
+      <workItem from="1587965179038" duration="12151000" />
+      <workItem from="1588035555705" duration="13244000" />
+      <workItem from="1588121785263" duration="2002000" />
+      <workItem from="1588226619254" duration="2163000" />
+      <workItem from="1588229796765" duration="898000" />
+      <workItem from="1588750274680" duration="2960000" />
+      <workItem from="1588754337173" duration="2610000" />
+      <workItem from="1588917985550" duration="1651000" />
+      <workItem from="1589003093131" duration="6095000" />
+      <workItem from="1589440455193" duration="620000" />
+      <workItem from="1589772032887" duration="3236000" />
+      <workItem from="1589782128623" duration="4901000" />
+      <workItem from="1589794529076" duration="2171000" />
+      <workItem from="1589868252099" duration="2447000" />
+      <workItem from="1589883527576" duration="809000" />
+      <workItem from="1589938993486" duration="4926000" />
+      <workItem from="1590026381010" duration="7134000" />
+      <workItem from="1590127252207" duration="1036000" />
+      <workItem from="1590132533546" duration="3513000" />
+      <workItem from="1590373753443" duration="2615000" />
+      <workItem from="1590472603290" duration="683000" />
+      <workItem from="1590730155893" duration="2591000" />
+      <workItem from="1590976965138" duration="1591000" />
+      <workItem from="1590992950363" duration="4913000" />
+      <workItem from="1591079441332" duration="4744000" />
+      <workItem from="1591162887198" duration="4138000" />
+      <workItem from="1591324225840" duration="637000" />
+      <workItem from="1591666227895" duration="3862000" />
+      <workItem from="1591781692779" duration="3139000" />
+      <workItem from="1591839864879" duration="2131000" />
+      <workItem from="1591925627309" duration="1438000" />
+      <workItem from="1591955213336" duration="2732000" />
+      <workItem from="1592186650223" duration="8444000" />
+      <workItem from="1592277175176" duration="8515000" />
+      <workItem from="1592465111883" duration="531000" />
+      <workItem from="1592474959386" duration="1138000" />
+      <workItem from="1592530167654" duration="6818000" />
+      <workItem from="1592547920348" duration="800000" />
+      <workItem from="1592560280152" duration="770000" />
+      <workItem from="1592793628903" duration="4591000" />
+      <workItem from="1592880011946" duration="641000" />
+      <workItem from="1592891751043" duration="642000" />
+      <workItem from="1592962724330" duration="5068000" />
+      <workItem from="1593311682599" duration="6506000" />
+      <workItem from="1593394434200" duration="4523000" />
+      <workItem from="1593482904312" duration="8639000" />
+      <workItem from="1593585077839" duration="4354000" />
+      <workItem from="1593669743033" duration="2564000" />
+      <workItem from="1594018381350" duration="4069000" />
+      <workItem from="1594084958461" duration="7534000" />
+      <workItem from="1594171377712" duration="6992000" />
+      <workItem from="1594267900999" duration="8279000" />
+      <workItem from="1594621536888" duration="1399000" />
+      <workItem from="1594720992838" duration="673000" />
+      <workItem from="1594949232877" duration="13241000" />
+      <workItem from="1594980016994" duration="1103000" />
+      <workItem from="1595209521454" duration="8214000" />
+      <workItem from="1595316564054" duration="785000" />
+      <workItem from="1595380981681" duration="3165000" />
+      <workItem from="1595561944881" duration="597000" />
+      <workItem from="1595571473703" duration="1607000" />
+      <workItem from="1595987291241" duration="624000" />
+      <workItem from="1596094320808" duration="754000" />
+      <workItem from="1597037320589" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_order_history_py - 2019.09.23 at 14h 05m 19s.xml">
+      <configuration name="Unittests in test_order_history.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_order_history_py - 2019.09.23 at 14h 07m 06s.xml">
+      <configuration name="Unittests in test_order_history.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_order_history_py - 2019.09.23 at 14h 18m 02s.xml">
+      <configuration name="Unittests in test_order_history.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_order_history_py - 2019.09.23 at 14h 18m 23s.xml">
+      <configuration name="Unittests in test_order_history.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_pending_py - 2019.09.23 at 14h 18m 41s.xml">
+      <configuration name="Unittests in test_pending.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_pending_py - 2019.09.23 at 14h 18m 53s.xml">
+      <configuration name="Unittests in test_pending.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_register_py - 2019.09.23 at 14h 18m 59s.xml">
+      <configuration name="Unittests in test_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_register_py - 2019.09.23 at 14h 19m 41s.xml">
+      <configuration name="Unittests in test_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_wait_for_receiving_py - 2019.09.23 at 14h 20m 49s.xml">
+      <configuration name="Unittests in test_wait_for_receiving.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_wait_for_receiving_py - 2019.09.23 at 14h 21m 02s.xml">
+      <configuration name="Unittests in test_wait_for_receiving.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="842264000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4949495" visible="true" weight="0.1359275" />
+      <window_info id="Structure" order="1" sideWeight="0.5050505" side_tool="true" weight="0.20042644" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.17236467" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22968581" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1681128" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script/test_order_flow.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/unittest/loader.py" />
+    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/site-packages/xlrd/__init__.py" />
+    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/unittest/main.py" />
+    <entry file="file://$PROJECT_DIR$/script/test_order_history.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/test_pending.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#36#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/pending.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#5#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/test_wait_for_receiving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#5#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/order_3history.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#6#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/test_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#37#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pymysql读取数据和写入数据02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/wait_for_3receiving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#5#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pymysql_e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#5#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/operate_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/random_faker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-695925223/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140022">
+          <caret line="5186" column="8" selection-start-line="5186" selection-start-column="8" selection-end-line="5186" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-695925223/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_method/sen_journey.py" />
+    <entry file="file://$PROJECT_DIR$/send_method/test1.py" />
+    <entry file="file://$PROJECT_DIR$/send_method/test.py" />
+    <entry file="file://$PROJECT_DIR$/send_method/send_method.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="566" column="8" selection-start-line="566" selection-start-column="8" selection-end-line="566" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_method/打.py" />
+    <entry file="file://$PROJECT_DIR$/runcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_Connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_车辆拆除报警.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="346" column="23" lean-forward="true" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fv_send_jouuney.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8694">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+          <folding>
+            <element signature="e#59#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_车况自检.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_驾驶行为.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="134" column="325" selection-start-line="134" selection-start-column="325" selection-end-line="134" selection-end-column="325" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_车况自检.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="277" column="42" lean-forward="true" selection-start-line="277" selection-start-column="42" selection-end-line="277" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/list_page.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/course.py" />
+    <entry file="file://$PROJECT_DIR$/FV_驾驶行为.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_journey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6075">
+          <caret line="230" column="26" selection-start-line="230" selection-start-column="26" selection-end-line="230" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_login_out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="415" column="60" selection-start-line="415" selection-start-column="60" selection-end-line="415" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_C1报警事件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13203">
+          <caret line="494" column="33" selection-start-line="494" selection-start-column="33" selection-end-line="494" selection-end-column="33" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_停车充电.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="135" column="64" selection-start-line="135" selection-start-column="64" selection-end-line="135" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_C1报警.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7236">
+          <caret line="273" column="123" selection-start-line="273" selection-start-column="121" selection-end-line="273" selection-end-column="123" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_location.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write_location_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="433" column="33" lean-forward="true" selection-start-line="433" selection-start-column="33" selection-end-line="433" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_充电完成.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_login_out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="364" column="35" selection-start-line="364" selection-start-column="35" selection-end-line="364" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,203 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <style>
+    html,
+    body,
+    #container {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        font-size: 13px;
+    }
+    
+    #pickerBox {
+        position: absolute;
+        z-index: 9999;
+        top: 50px;
+        right: 30px;
+        width: 300px;
+    }
+    
+    #pickerInput {
+        width: 200px;
+        padding: 5px 5px;
+    }
+    
+    #poiInfo {
+        background: #fff;
+    }
+    
+    .amap_lib_placeSearch .poibox.highlight {
+        background-color: #CAE1FF;
+    }
+    
+    .amap_lib_placeSearch .poi-more {
+        display: none!important;
+    }
+ 
+    </style>
+    <title>位置经纬度 + 获取货车规划数据</title>
+    <link rel="stylesheet" href="https://a.amap.com/jsapi_demos/static/demo-center/css/demo-center.css" />
+    <script src="https://webapi.amap.com/maps?v=1.4.11&key=c23237b8dcdd6309f0329cd5e78f09d2&plugin=AMap.TruckDriving"></script>
+    <script src="https://a.amap.com/jsapi_demos/static/demo-center/js/demoutils.js"></script>
+	  <!-- UI组件库 1.0 -->
+    <script src="https://webapi.amap.com/ui/1.0/main.js?v=1.0.11"></script>
+</head>
+<body>
+<div id="container"></div>
+ <div id="pickerBox">
+	<input id="pickerInput1" placeholder="输入起始地点" />
+	<input id="pickerInput2" placeholder="输入目的地点" />
+	<button onclick="showLine()">搜索</button>
+	<button onclick="showPoints()">显示所有的点</button>
+	
+</div>
+<script type="text/javascript">
+    var map = new AMap.Map("container", {
+        zoom: 14
+    });
+	
+	var startPoint, endPoint;
+	
+	AMapUI.loadUI(['misc/PoiPicker'], function(PoiPicker) {
+ 
+        var poiPicker1 = new PoiPicker({
+            input: 'pickerInput1'
+        });
+		
+		var poiPicker2 = new PoiPicker({
+            input: 'pickerInput2'
+        });
+ 
+        //初始化poiPicker
+        poiPickerReady(poiPicker1, 'start');
+		poiPickerReady(poiPicker2, 'end');
+    });
+ 
+    function poiPickerReady(poiPicker, type) {
+ 
+        window.poiPicker = poiPicker;
+ 
+        var marker = new AMap.Marker();
+ 
+        var infoWindow = new AMap.InfoWindow({
+            offset: new AMap.Pixel(0, -20)
+        });
+ 
+        //选取了某个POI
+        poiPicker.on('poiPicked', function(poiResult) {
+ 
+            var source = poiResult.source,
+                poi = poiResult.item,
+                info = {
+                    source: source,
+                    id: poi.id,
+                    name: poi.name,
+                    location: poi.location.toString(),
+                    address: poi.address
+                };
+ 
+            marker.setMap(map);
+ 
+            marker.setPosition(poi.location);
+			if('start' == type){
+				startPoint = {lnglat:[poi.location.lng, poi.location.lat]}
+			}else{
+				endPoint = {lnglat:[poi.location.lng, poi.location.lat]}
+			}
+ 
+            map.setCenter(marker.getPosition());
+        });
+    }
+	
+	var lines = [];
+	var showLine = function(){
+		var truckDriving = new AMap.TruckDriving({
+			map: map,
+			policy: 0, // 规划策略
+			size: 1, // 车型大小
+			width: 2.5, // 宽度
+			height: 2, // 高度      
+			load: 1, // 载重
+			weight: 12, // 自重
+			axlesNum: 2, // 轴数
+			province: '京', // 车辆牌照省份
+			isOutline: true,
+			outlineColor: '#ffeeee'
+		})
+ 
+		var path = []
+		path.push(startPoint);
+		path.push(endPoint);
+		//path.push({lnglat:[102.16713, 27.075478]});//起点
+		//path.push({lnglat:[102.183121, 27.066025]});//途径
+		//path.push({lnglat:[102.250366, 27.093014]});//途径
+		//path.push({lnglat:[102.28643, 26.862982]});//终点
+		//path.push({lnglat:[102.29525, 26.873838]});//终点
+		truckDriving.search(path, function(status, result) {
+			// searchResult即是对应的驾车导航信息，相关数据结构文档请参考  https://lbs.amap.com/api/javascript-api/reference/route-search#m_DrivingResult
+			if (status === 'complete') {
+				log.success('获取货车规划数据成功')
+				console.log(JSON.stringify(result));
+				
+				var path2 = result;
+				console.log("path:"+path2);
+				
+				var routes = path2.routes;
+				var points = []
+				routes.forEach(item=>{
+					var steps = item.steps;
+					steps.forEach(st=>{
+						points.push(st.path);
+					})
+				})
+				console.log("points:"+points);
+				
+				points.forEach(item2=>{
+					item2.forEach(p =>{
+						lines.push([p.lng,p.lat]);
+					})
+					
+				
+				})
+				console.log("lines:"+lines);
+ 
+				//showPoints(lines)
+			} else {
+				log.error('获取货车规划数据失败：' + result)
+			}
+		})
+	}
+	//显示所有的线上的点
+	var showPoints = function(){
+		map.clearMap()
+		//var map = new AMap.Map('container',{resizeEnable: true,zoom:4});
+		var markers = []; //province见Demo引用的JS文件
+		
+		for (var i = 0; i < lines.length; i += 1) {
+			var marker;
+				var icon = new AMap.Icon({
+					image: 'https://vdata.amap.com/icons/b18/1/2.png',
+					size: new AMap.Size(24, 24)
+				});
+				marker = new AMap.Marker({
+					icon: icon,
+					position: lines[i],
+					offset: new AMap.Pixel(-12,-12),
+					zIndex: 101,
+					title:JSON.stringify(lines[i]),
+					map: map
+				});
+ 
+			markers.push(marker);
+		}
+		map.setFitView();
+	
+	}
+</script>
+</body>
+</html>
