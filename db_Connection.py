@@ -12,7 +12,7 @@ config = {
 # print(alert)
 
 # alert = '0' + '1' + "".join(random.choice("789") for i in range(8))
-# # print(alert)
+# print(alert)
 # mileage = 95000
 # mileage = hex(mileage)[2:].upper()
 # print(mileage)

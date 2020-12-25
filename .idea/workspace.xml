@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="516302aa-ddb1-481d-a637-d0e0f2d9761e" name="Default" comment="" />
+    <list default="true" id="516302aa-ddb1-481d-a637-d0e0f2d9761e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV_login_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/EV_login_out.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV_停车充电.py" beforeDir="false" afterPath="$PROJECT_DIR$/EV_停车充电.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV_车况自检.py" beforeDir="false" afterPath="$PROJECT_DIR$/EV_车况自检.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV_驾驶行为.py" beforeDir="false" afterPath="$PROJECT_DIR$/EV_驾驶行为.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FV_C1报警.py" beforeDir="false" afterPath="$PROJECT_DIR$/FV_C1报警.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FV_C1报警事件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FV_normal.py" beforeDir="false" afterPath="$PROJECT_DIR$/FV_normal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FV_车况自检.py" beforeDir="false" afterPath="$PROJECT_DIR$/FV_车况自检.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FV_车辆拆除报警.py" beforeDir="false" afterPath="$PROJECT_DIR$/FV_车辆拆除报警.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FV_驾驶行为.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pymysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/pymysql_2222222.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_Connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_Connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_location.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_location.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/test_05_ram_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/test_05_ram_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_location_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_location_1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,25 +30,29 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_goods_py.coverage" NAME="Unittests in test_goods.py Coverage Results" MODIFIED="1569207660545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sceript" />
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_6login_py.coverage" NAME="Unittests in test_6login.py Coverage Results" MODIFIED="1569218414918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
-    <SUITE FILE_PATH="coverage/isuzu$EV_login_out.coverage" NAME="EV_login_out Coverage Results" MODIFIED="1597037559596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$EV_login_out.coverage" NAME="EV_login_out Coverage Results" MODIFIED="1608540259208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$write_location.coverage" NAME="write_location Coverage Results" MODIFIED="1575354348487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/isuzu$FV_.coverage" NAME="FV_驾驶行为 Coverage Results" MODIFIED="1586423171131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_.coverage" NAME="FV_车况自检 Coverage Results" MODIFIED="1608112088752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day1$send_journey__1_.coverage" NAME="send_journey (1) Coverage Results" MODIFIED="1574849947691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_pending_py.coverage" NAME="Unittests in test_pending.py Coverage Results" MODIFIED="1569219532153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
     <SUITE FILE_PATH="coverage/isuzu$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1585019689507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_order_history_py.coverage" NAME="Unittests in test_order_history.py Coverage Results" MODIFIED="1569219502161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/isuzu$config.coverage" NAME="config Coverage Results" MODIFIED="1608518362127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/isuzu$ev_.coverage" NAME="ev_车况自检 Coverage Results" MODIFIED="1585936222972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_wait_for_receiving_py.coverage" NAME="Unittests in test_wait_for_receiving.py Coverage Results" MODIFIED="1569219661200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_in_test_register_py.coverage" NAME="Unittests in test_register.py Coverage Results" MODIFIED="1569219580740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
-    <SUITE FILE_PATH="coverage/isuzu$write_location_1.coverage" NAME="write_location_1 Coverage Results" MODIFIED="1594950674885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/isuzu$EV_.coverage" NAME="EV_停车充电 Coverage Results" MODIFIED="1592880052422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$write_location_1.coverage" NAME="write_location_1 Coverage Results" MODIFIED="1608023864920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$EV_.coverage" NAME="EV_驾驶行为 Coverage Results" MODIFIED="1606380570597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$send_journey__1_.coverage" NAME="send_journey (1) Coverage Results" MODIFIED="1585931552793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$fv_send_jouuney.coverage" NAME="fv_send_jouuney Coverage Results" MODIFIED="1585906131554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/isuzu$db_Connection.coverage" NAME="db_Connection Coverage Results" MODIFIED="1585028532045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$course.coverage" NAME="course Coverage Results" MODIFIED="1590137260651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05" />
+    <SUITE FILE_PATH="coverage/isuzu$db_Connection.coverage" NAME="db_Connection Coverage Results" MODIFIED="1607941908506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$.coverage" NAME="转时间戳 Coverage Results" MODIFIED="1608021096596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ecshop$runcase.coverage" NAME="runcase Coverage Results" MODIFIED="1569225279848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/isuzu$get_location.coverage" NAME="get_location Coverage Results" MODIFIED="1593586345781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$test.coverage" NAME="test Coverage Results" MODIFIED="1599550107165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$get_location.coverage" NAME="get_location Coverage Results" MODIFIED="1599474351509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$write_location__1_.coverage" NAME="write_location (1) Coverage Results" MODIFIED="1575534033857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$OTA.coverage" NAME="OTA Coverage Results" MODIFIED="1605259928319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$send_journey.coverage" NAME="send_journey Coverage Results" MODIFIED="1575455234916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$FV_login_out.coverage" NAME="FV_login_out Coverage Results" MODIFIED="1593586303091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isuzu$ev_login_out.coverage" NAME="ev_login_out Coverage Results" MODIFIED="1585933541339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -39,87 +62,53 @@
     <SUITE FILE_PATH="coverage/day1$send_journey.coverage" NAME="send_journey Coverage Results" MODIFIED="1574823061207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ecshop$Unittests_for_test_goods_TestGoods_test_goods_info.coverage" NAME="Unittests for test_goods.TestGoods.test_goods_info Coverage Results" MODIFIED="1569207632616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sceript" />
     <SUITE FILE_PATH="coverage/isuzu$EV_C1.coverage" NAME="EV_C1报警事件 Coverage Results" MODIFIED="1585937467258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/isuzu$FV_C1.coverage" NAME="FV_C1报警事件 Coverage Results" MODIFIED="1594277197948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/isuzu$FV_normal.coverage" NAME="FV_normal Coverage Results" MODIFIED="1597037423960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1605149164228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_C1.coverage" NAME="FV_C1报警 Coverage Results" MODIFIED="1606457145105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$FV_normal.coverage" NAME="FV_normal Coverage Results" MODIFIED="1608539745424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day1$write_location.coverage" NAME="write_location Coverage Results" MODIFIED="1574822620514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isuzu$database.coverage" NAME="database Coverage Results" MODIFIED="1608529243189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/day1$test.coverage" NAME="test Coverage Results" MODIFIED="1574156581829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/send_method" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FV_C1报警事件.py">
+        <entry file="file://$PROJECT_DIR$/EV_login_out.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13203">
-              <caret line="494" column="33" selection-start-line="494" selection-start-column="33" selection-end-line="494" selection-end-column="33" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EV_充电完成.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
+            <state relative-caret-position="216">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EV_停车充电.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3510">
-              <caret line="135" column="64" selection-start-line="135" selection-start-column="64" selection-end-line="135" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#533#3409#0" />
+                <element signature="e#3498#7704#0" />
+                <element signature="e#7788#11793#0" />
+                <element signature="e#11853#14815#0" />
+                <element signature="e#14880#17540#0" />
+                <element signature="e#17638#21664#0" />
+                <element signature="e#21717#23517#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EV_login_out.py">
+        <entry file="file://$PROJECT_DIR$/common/pymysql_2222222.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="364" column="35" selection-start-line="364" selection-start-column="35" selection-end-line="364" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FV_C1报警.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7236">
-              <caret line="273" column="123" selection-start-line="273" selection-start-column="121" selection-end-line="273" selection-end-column="123" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_location.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/write_location_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="656">
+              <caret line="113" column="28" lean-forward="true" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -127,10 +116,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FV_normal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="433" column="33" lean-forward="true" selection-start-line="433" selection-start-column="33" selection-end-line="433" selection-end-column="33" />
+            <state relative-caret-position="621">
+              <caret line="70" column="78" selection-start-line="70" selection-start-column="78" selection-end-line="70" selection-end-column="78" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#547#2754#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianxi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#2#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OTA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1053">
+              <caret line="584" column="339" selection-start-line="584" selection-start-column="25" selection-end-line="584" selection-end-column="339" />
+              <folding>
+                <element signature="e#535#3411#0" />
+                <element signature="e#3500#7830#0" />
+                <element signature="e#7920#12250#0" />
+                <element signature="e#12345#16684#0" />
+                <element signature="e#16779#21118#0" />
+                <element signature="e#21178#23548#0" />
+                <element signature="e#23613#26273#0" />
+                <element signature="e#26371#30397#0" />
+                <element signature="e#30497#34526#0" />
+                <element signature="e#38717#40517#0" />
               </folding>
             </state>
           </provider>
@@ -153,20 +176,15 @@
       <replace>int(now_time[8:10]))</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/script/test_05_delete_address.py" />
-        <option value="$PROJECT_DIR$/script/test_05_modify_address.py" />
-        <option value="$PROJECT_DIR$/script/test_order_history.py" />
-        <option value="$PROJECT_DIR$/interface/order_3history.py" />
-        <option value="$PROJECT_DIR$/interface/pending.py" />
-        <option value="$PROJECT_DIR$/interface/wait_for_3receiving.py" />
-        <option value="$PROJECT_DIR$/script/test_register.py" />
         <option value="$PROJECT_DIR$/common/pymysql读取数据和写入数据02.py" />
         <option value="$PROJECT_DIR$/common/random_faker.py" />
         <option value="$PROJECT_DIR$/common/operate_excel.py" />
-        <option value="$PROJECT_DIR$/common/config.py" />
         <option value="$PROJECT_DIR$/common/pymysql_e.py" />
         <option value="$PROJECT_DIR$/send_method/send_method.py" />
         <option value="$PROJECT_DIR$/send_method/test.py" />
@@ -179,7 +197,6 @@
         <option value="$PROJECT_DIR$/send_method/fv_send_jouuney.py" />
         <option value="$PROJECT_DIR$/send_method/打.py" />
         <option value="$PROJECT_DIR$/data/__init__.py" />
-        <option value="$PROJECT_DIR$/db_Connection.py" />
         <option value="$PROJECT_DIR$/send_method/login_out.py" />
         <option value="$PROJECT_DIR$/login_out.py" />
         <option value="$PROJECT_DIR$/ev_login_out.py" />
@@ -190,32 +207,42 @@
         <option value="$PROJECT_DIR$/ev_车况自检.py" />
         <option value="$PROJECT_DIR$/ev_C1报警事件.py" />
         <option value="$PROJECT_DIR$/EV_C1报警事件.py" />
-        <option value="$PROJECT_DIR$/FV_C1报警.py" />
         <option value="$PROJECT_DIR$/fv_send_jouuney.py" />
-        <option value="$PROJECT_DIR$/FV_车辆拆除报警.py" />
-        <option value="$PROJECT_DIR$/FV_车况自检.py" />
-        <option value="$PROJECT_DIR$/EV_车况自检.py" />
-        <option value="$PROJECT_DIR$/EV_驾驶行为.py" />
-        <option value="$PROJECT_DIR$/FV_驾驶行为.py" />
         <option value="$PROJECT_DIR$/EV_充电完成.py" />
         <option value="$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/course.py" />
-        <option value="$PROJECT_DIR$/EV_停车充电.py" />
         <option value="$PROJECT_DIR$/FV_login_out.py" />
         <option value="$PROJECT_DIR$/FV_C1报警事件.py" />
+        <option value="$PROJECT_DIR$/EV_停车充电.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/FV_车辆拆除报警.py" />
+        <option value="F:/06_接口/第四/接口代码/common/pymysql.py" />
+        <option value="$PROJECT_DIR$/lianxi.py" />
+        <option value="$PROJECT_DIR$/OTA.py" />
+        <option value="$PROJECT_DIR$/EV_车况自检.py" />
+        <option value="$PROJECT_DIR$/EV_驾驶行为.py" />
+        <option value="$PROJECT_DIR$/FV_C1报警.py" />
+        <option value="$PROJECT_DIR$/db_Connection.py" />
+        <option value="$PROJECT_DIR$/转时间戳.py" />
         <option value="$PROJECT_DIR$/write_location_1.py" />
         <option value="$PROJECT_DIR$/get_location.py" />
         <option value="$PROJECT_DIR$/get_location.py" />
-        <option value="$PROJECT_DIR$/EV_login_out.py" />
+        <option value="$PROJECT_DIR$/FV_驾驶行为.py" />
+        <option value="$PROJECT_DIR$/FV_车况自检.py" />
+        <option value="$PROJECT_DIR$/common/config.py" />
+        <option value="$PROJECT_DIR$/common/database.py" />
         <option value="$PROJECT_DIR$/FV_normal.py" />
+        <option value="$PROJECT_DIR$/EV_login_out.py" />
+        <option value="$PROJECT_DIR$/common/pymysql_2222222.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="981" />
-    <option name="height" value="1041" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,6 +256,11 @@
               <item name="isuzu" type="b2602c69:ProjectViewProjectNode" />
               <item name="isuzu" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="isuzu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isuzu" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,7 +269,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pysql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -269,182 +301,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.EV_login_out">
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EV_充电完成" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isuzu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EV_充电完成.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="EV_login_out" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isuzu" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -467,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FV_C1报警事件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FV_车辆拆除报警" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isuzu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -480,7 +336,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FV_C1报警事件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FV_车辆拆除报警.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FV_车况自检" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FV_车况自检.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FV_车况自检" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isuzu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FV_车况自检.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -511,7 +411,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_location" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isuzu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -519,12 +419,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_location.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/config.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -533,7 +433,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="write_location_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isuzu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -541,12 +441,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/write_location_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -556,20 +456,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.EV_充电完成" />
-      <item itemvalue="Python.EV_login_out" />
+      <item itemvalue="Python.FV_车辆拆除报警" />
       <item itemvalue="Python.FV_normal" />
-      <item itemvalue="Python.get_location" />
-      <item itemvalue="Python.FV_C1报警事件" />
-      <item itemvalue="Python.write_location_1" />
+      <item itemvalue="Python.EV_login_out" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.database" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.EV_login_out" />
         <item itemvalue="Python.FV_normal" />
-        <item itemvalue="Python.write_location_1" />
-        <item itemvalue="Python.FV_C1报警事件" />
-        <item itemvalue="Python.get_location" />
+        <item itemvalue="Python.database" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.FV_车辆拆除报警" />
       </list>
     </recent_temporary>
   </component>
@@ -738,7 +637,72 @@
       <workItem from="1595571473703" duration="1607000" />
       <workItem from="1595987291241" duration="624000" />
       <workItem from="1596094320808" duration="754000" />
-      <workItem from="1597037320589" duration="252000" />
+      <workItem from="1597037320589" duration="4431000" />
+      <workItem from="1597110169480" duration="2782000" />
+      <workItem from="1597199104884" duration="694000" />
+      <workItem from="1597213036678" duration="641000" />
+      <workItem from="1597991827466" duration="13422000" />
+      <workItem from="1598239692619" duration="8328000" />
+      <workItem from="1598336348086" duration="3690000" />
+      <workItem from="1598348597510" duration="737000" />
+      <workItem from="1598409277785" duration="3334000" />
+      <workItem from="1598508255380" duration="2967000" />
+      <workItem from="1598597716777" duration="1174000" />
+      <workItem from="1598604969193" duration="726000" />
+      <workItem from="1598840443791" duration="1144000" />
+      <workItem from="1598849890936" duration="737000" />
+      <workItem from="1599101982341" duration="1267000" />
+      <workItem from="1599213263973" duration="605000" />
+      <workItem from="1599466994457" duration="4146000" />
+      <workItem from="1599528313404" duration="2293000" />
+      <workItem from="1599547664436" duration="2979000" />
+      <workItem from="1599630023756" duration="747000" />
+      <workItem from="1599635817850" duration="3932000" />
+      <workItem from="1599702468729" duration="2713000" />
+      <workItem from="1600138606931" duration="2817000" />
+      <workItem from="1600236957093" duration="6134000" />
+      <workItem from="1600306947224" duration="1792000" />
+      <workItem from="1600316564543" duration="4415000" />
+      <workItem from="1600737821473" duration="1315000" />
+      <workItem from="1600841853434" duration="1299000" />
+      <workItem from="1601000826008" duration="888000" />
+      <workItem from="1601200776665" duration="1325000" />
+      <workItem from="1601279964357" duration="902000" />
+      <workItem from="1602227324473" duration="1227000" />
+      <workItem from="1602468197404" duration="5746000" />
+      <workItem from="1602655130201" duration="818000" />
+      <workItem from="1602753194349" duration="1149000" />
+      <workItem from="1602812677853" duration="5133000" />
+      <workItem from="1602835470491" duration="649000" />
+      <workItem from="1603186532053" duration="3057000" />
+      <workItem from="1603265152455" duration="1631000" />
+      <workItem from="1603330504386" duration="4806000" />
+      <workItem from="1603418816934" duration="1425000" />
+      <workItem from="1603433508551" duration="721000" />
+      <workItem from="1603441415786" duration="1965000" />
+      <workItem from="1603683629013" duration="1254000" />
+      <workItem from="1603764913115" duration="1195000" />
+      <workItem from="1604045009216" duration="5480000" />
+      <workItem from="1604297209297" duration="2928000" />
+      <workItem from="1604456991495" duration="9831000" />
+      <workItem from="1604486280334" duration="786000" />
+      <workItem from="1604976946258" duration="2766000" />
+      <workItem from="1605149038528" duration="724000" />
+      <workItem from="1605172998331" duration="610000" />
+      <workItem from="1605237290228" duration="6274000" />
+      <workItem from="1605490618102" duration="6425000" />
+      <workItem from="1605749552570" duration="7556000" />
+      <workItem from="1605937294736" duration="1542000" />
+      <workItem from="1606370340771" duration="4987000" />
+      <workItem from="1606445878055" duration="5504000" />
+      <workItem from="1606702828124" duration="4687000" />
+      <workItem from="1606789500264" duration="3114000" />
+      <workItem from="1607939948949" duration="1653000" />
+      <workItem from="1608012444464" duration="5802000" />
+      <workItem from="1608107192426" duration="4972000" />
+      <workItem from="1608273583073" duration="4398000" />
+      <workItem from="1608516196964" duration="7688000" />
+      <workItem from="1608796408623" duration="1977000" />
     </task>
     <servers />
   </component>
@@ -775,19 +739,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="842264000" />
+    <option name="totallyTimeSpent" value="1046868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4949495" visible="true" weight="0.1359275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4949495" visible="true" weight="0.22707888" />
       <window_info id="Structure" order="1" sideWeight="0.5050505" side_tool="true" weight="0.20042644" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.17236467" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22968581" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1681128" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28199565" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27006507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -795,123 +759,55 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.015991472" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/script/test_order_flow.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/unittest/loader.py" />
-    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/site-packages/xlrd/__init__.py" />
-    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/unittest/main.py" />
-    <entry file="file://$PROJECT_DIR$/script/test_order_history.py">
+    <entry file="file://$PROJECT_DIR$/fv_send_jouuney.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="8694">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
           <folding>
-            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#59#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/test_pending.py">
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/list_page.py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/course.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="876">
+          <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_C1报警事件.py" />
+    <entry file="file://$PROJECT_DIR$/EV_充电完成.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8235">
+          <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
           <folding>
-            <element signature="e#36#78#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/pending.py">
+    <entry file="file://$PROJECT_DIR$/script/test_2collect_goods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state>
           <folding>
-            <element signature="e#5#46#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/test_wait_for_receiving.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="e#5#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/order_3history.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#6#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#15#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/test_register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#37#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/pymysql读取数据和写入数据02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/wait_for_3receiving.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#5#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/pymysql_e.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -925,13 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/operate_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/random_faker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -939,159 +828,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/database.py">
+    <entry file="file://$PROJECT_DIR$/common/get_keyword.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="513">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/operate_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2862">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
           <folding>
-            <element signature="e#24#38#0" expanded="true" />
+            <element signature="e#177#188#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_停车充电.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="136" column="87" selection-start-line="136" selection-start-column="87" selection-end-line="136" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#533#2793#0" />
+            <element signature="e#2882#6747#0" />
+            <element signature="e#6845#10945#0" />
+            <element signature="e#11039#14976#0" />
+            <element signature="e#15072#18996#0" />
+            <element signature="e#19049#20849#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/BaiduNetdiskDownload/08.python基础/Python基础-2/code/20190802/课堂练习/test.py" />
+    <entry file="file://E:/BaiduNetdiskDownload/08.python基础/Python基础-2/code/20190802/课堂练习/01作业.py" />
+    <entry file="file://E:/BaiduNetdiskDownload/08.python基础/Python基础-3/code/20190804/课堂练习/07循环案例99乘法表.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-695925223/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140022">
-          <caret line="5186" column="8" selection-start-line="5186" selection-start-column="8" selection-end-line="5186" selection-end-column="8" />
+        <state relative-caret-position="224">
+          <caret line="3680" column="8" selection-start-line="3680" selection-start-column="8" selection-end-line="3680" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/requests/api.py">
+    <entry file="file://$PROJECT_DIR$/../APP_aaaaaaaa/common/public_methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/06_接口/第四/接口代码/common/pymysql.py" />
+    <entry file="file://F:/06_接口/第四/接口代码/common/pymysql读取数据和写入数据02.py" />
+    <entry file="file://$USER_HOME$/Desktop/ride.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/BaiduNetdiskDownload/09.python高级/2019-08-20-python高级-模块-day06/code/20190820/课堂练习/07哈希散列算法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        <state relative-caret-position="353">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-695925223/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/send_method/sen_journey.py" />
-    <entry file="file://$PROJECT_DIR$/send_method/test1.py" />
-    <entry file="file://$PROJECT_DIR$/send_method/test.py" />
-    <entry file="file://$PROJECT_DIR$/send_method/send_method.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="566" column="8" selection-start-line="566" selection-start-column="8" selection-end-line="566" selection-end-column="8" />
+        <state relative-caret-position="230">
+          <caret line="526" column="8" selection-start-line="526" selection-start-column="8" selection-end-line="526" selection-end-column="8" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/send_method/打.py" />
-    <entry file="file://$PROJECT_DIR$/runcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db_Connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FV_车辆拆除报警.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="346" column="23" lean-forward="true" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fv_send_jouuney.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8694">
-          <caret line="327" selection-start-line="327" selection-end-line="327" />
-          <folding>
-            <element signature="e#59#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EV_车况自检.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EV_驾驶行为.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="134" column="325" selection-start-line="134" selection-start-column="325" selection-end-line="134" selection-end-column="325" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FV_车况自检.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="277" column="42" lean-forward="true" selection-start-line="277" selection-start-column="42" selection-end-line="277" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/list_page.py" />
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/wjlmeiying1314/FileStorage/File/2020-05/course.py" />
-    <entry file="file://$PROJECT_DIR$/FV_驾驶行为.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Lib/socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="-985">
           <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/send_journey.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6075">
-          <caret line="230" column="26" selection-start-line="230" selection-start-column="26" selection-end-line="230" selection-end-column="26" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FV_login_out.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="555">
           <caret line="415" column="60" selection-start-line="415" selection-start-column="60" selection-end-line="415" selection-end-column="60" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1099,77 +915,259 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FV_C1报警事件.py">
+    <entry file="file://$PROJECT_DIR$/EV_车况自检.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13203">
-          <caret line="494" column="33" selection-start-line="494" selection-start-column="33" selection-end-line="494" selection-end-column="33" />
+        <state relative-caret-position="9585">
+          <caret line="360" column="8" selection-start-line="360" selection-start-column="8" selection-end-line="360" selection-end-column="8" />
           <folding>
             <element signature="e#15#26#0" expanded="true" />
+            <element signature="e#19365#21623#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EV_停车充电.py">
+    <entry file="file://$PROJECT_DIR$/db_Connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3510">
-          <caret line="135" column="64" selection-start-line="135" selection-start-column="64" selection-end-line="135" selection-end-column="64" />
+        <state relative-caret-position="648">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV_驾驶行为.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="255" column="87" selection-start-line="255" selection-start-column="87" selection-end-line="255" selection-end-column="87" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#15#26#0" expanded="true" />
+            <element signature="e#562#3438#0" />
+            <element signature="e#3527#7857#0" />
+            <element signature="e#7917#10583#0" />
+            <element signature="e#10648#13308#0" />
+            <element signature="e#13406#17432#0" />
+            <element signature="e#17485#19232#0" />
+            <element signature="e#19315#21880#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FV_C1报警.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7236">
-          <caret line="273" column="123" selection-start-line="273" selection-start-column="121" selection-end-line="273" selection-end-column="123" />
+        <state relative-caret-position="81">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#547#2481#0" />
+            <element signature="e#2570#8984#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-695925223/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="100" column="7" lean-forward="true" selection-start-line="100" selection-start-column="7" selection-end-line="100" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write_location_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_驾驶行为.py" />
+    <entry file="file://$PROJECT_DIR$/转时间戳.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_车况自检.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="515" column="23" selection-start-line="515" selection-start-column="23" selection-end-line="515" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#547#2702#0" />
+            <element signature="e#2791#9205#0" />
+            <element signature="e#9303#16309#0" />
+            <element signature="e#16369#19641#0" />
+            <element signature="e#19706#22983#0" />
+            <element signature="e#23036#24647#0" />
+            <element signature="e#24710#27239#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_journey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11691">
+          <caret line="438" column="33" selection-start-line="438" selection-start-column="33" selection-end-line="438" selection-end-column="33" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/get_location.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="324">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write_location_1.py">
+    <entry file="file://$PROJECT_DIR$/FV_车辆拆除报警.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FV_normal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="433" column="33" lean-forward="true" selection-start-line="433" selection-start-column="33" selection-end-line="433" selection-end-column="33" />
+        <state relative-caret-position="1080">
+          <caret line="472" column="26" selection-start-line="472" selection-start-column="26" selection-end-line="472" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#547#2754#0" />
+            <element signature="e#2843#9257#0" />
+            <element signature="e#9355#16361#0" />
+            <element signature="e#16421#19318#0" />
+            <element signature="e#19383#22369#0" />
+            <element signature="e#22422#24033#0" />
+            <element signature="e#24089#25918#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EV_充电完成.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
+        <state relative-caret-position="972">
+          <caret line="429" column="44" selection-start-line="429" selection-start-column="44" selection-end-line="429" selection-end-column="44" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#547#2889#0" />
+            <element signature="e#2978#9392#0" />
+            <element signature="e#9490#16496#0" />
+            <element signature="e#16557#19829#0" />
+            <element signature="e#19895#23172#0" />
+            <element signature="e#23226#24837#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="93" column="17" lean-forward="true" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1029">
+          <caret line="182" column="8" selection-start-line="182" selection-start-column="8" selection-end-line="182" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pymysql读取数据和写入数据02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pymysql_e.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EV_login_out.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="364" column="35" selection-start-line="364" selection-start-column="35" selection-end-line="364" selection-end-column="35" />
+        <state relative-caret-position="216">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#533#3409#0" />
+            <element signature="e#3498#7704#0" />
+            <element signature="e#7788#11793#0" />
+            <element signature="e#11853#14815#0" />
+            <element signature="e#14880#17540#0" />
+            <element signature="e#17638#21664#0" />
+            <element signature="e#21717#23517#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FV_normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="70" column="78" selection-start-line="70" selection-start-column="78" selection-end-line="70" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#547#2754#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#2#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OTA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="584" column="339" selection-start-line="584" selection-start-column="25" selection-end-line="584" selection-end-column="339" />
+          <folding>
+            <element signature="e#535#3411#0" />
+            <element signature="e#3500#7830#0" />
+            <element signature="e#7920#12250#0" />
+            <element signature="e#12345#16684#0" />
+            <element signature="e#16779#21118#0" />
+            <element signature="e#21178#23548#0" />
+            <element signature="e#23613#26273#0" />
+            <element signature="e#26371#30397#0" />
+            <element signature="e#30497#34526#0" />
+            <element signature="e#38717#40517#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pymysql_2222222.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="113" column="28" lean-forward="true" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
         </state>
       </provider>
     </entry>

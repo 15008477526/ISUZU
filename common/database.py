@@ -81,12 +81,12 @@ class Database(object):
 if __name__ == '__main__':
     db = Database()
     # 调用方法
-    # sql ='select * from lol1 where name=%s'
-    # args =('俄洛伊',)
-    # result = db.readone(sql,args)
-    # print(result)
+    sql ='select * from tm_dealer where name like %s'
+    args =('北京%',)
+    result = db.readone(sql,args)
+    print(result)
 
-    sql1 ='update lol1 set age=32 where name=%s'
-    args =('麦林炮手',)
-    db.write(sql1,args)
+    # sql1 ='update lol1 set age=32 where name=%s'
+    # args =('麦林炮手',)
+    # db.write(sql1,args)
 

@@ -7,7 +7,8 @@ def get_list():
     locations=[]
     # with open("C:\\Users\\windows-pc\\Desktop\\wjl\\ttt.txt", 'r') as file:
     # with open("C:\\Users\\windows-pc\\Desktop\\wjl\\ttt2.txt", 'r') as file:
-    with open("C:\\Users\\windows-pc\\Desktop\\wjl\\nanchang.txt", 'r') as file:
+    # with open("C:\\Users\\windows-pc\\Desktop\\wjl\\nanchang.txt", 'r') as file:
+    with open("C:\\Users\\windows-pc\\Desktop\\wjl\\dongmenbridge.txt", 'r') as file:
         while True:
             line = file.readline()[:-1] #去掉换行符
             if line is not "":
@@ -66,7 +67,7 @@ def get_Latitude():  #纬度
 
 
 
-if __name__=="__main__":
-    a = get_Longitude()
-
-    print (a)
+# if __name__=="__main__":
+    # a = get_Longitude()
+    #
+    # print (a)

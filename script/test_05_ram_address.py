@@ -8,7 +8,7 @@ from interface.ram_5interface import RAM
 class TestRamAddress(unittest.TestCase):
     '''测试收货地址列表'''
     def setUp(self):
-        from common.pymysql import Database
+        from common.pymysql_2222222 import Database
         # 调用database类操作mysql
         self.db = Database()
     def test_list_address(self):
